@@ -12,12 +12,15 @@ Necessary inputs:
 
 Optional inputs:
 
-       - "--threshold". This allows to manually set the cluster size cut-off. The default is set at >99 voxels. 
+       - "--threshold". This allows to manually set the cluster size cut-off. 
+          The default is set at >99 voxels. 
+          
        - "--atlases". Enter more than one atlas for multiple analyses e.g. "--atlases "MNI Structural Atlas" "Juelich Histological Atlas" "
 
 Notes:
 
-    The script does check if the atlas and the input image have the same field of view. If the field of view doesnt match no results will be computed. 
+    The script does check if the atlas and the input image have the same field of view. 
+    If the field of view doesnt match no results will be computed. 
     Own atlases can be included. This allows to analyse results which are not in MNI152 space. 
 
 

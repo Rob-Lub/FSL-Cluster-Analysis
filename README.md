@@ -31,9 +31,9 @@ Resulting files will have the following form:
 Cluster: output_cluster_13
 Atlas: Adjusted_Atlas_HOSPA
 
- Out of bounds:1.7320\
- Left Cerebral White Matter:11.5770\
- Left Cerebral Cortex:0.6381\
+Out of bounds:1.7320\
+Left Cerebral White Matter:11.5770\
+Left Cerebral Cortex:0.6381\
 Left Lateral Ventricle:0.4102\
 Left Thalamus:12.5798\
 Left Caudate:10.6655\

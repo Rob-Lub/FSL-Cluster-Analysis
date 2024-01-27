@@ -29,6 +29,7 @@ Resulting files will have the following form:
 ```objc
 
 Cluster: output_cluster_13
+Size: 2214
 Atlas: Adjusted_Atlas_HOSPA
 
 Out of bounds:1.7320\

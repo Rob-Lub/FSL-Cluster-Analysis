@@ -63,8 +63,6 @@ Cluster_Index	Size	       Z-MAX X (mm)	       Z-MAX Y (mm)	Z-MAX Z (mm)	Havard-O
 8		2214.0		       -40.5		37.5		25.5		Frontal Pole		       Left Cerebral Cortex
 7		402.0		       -32.5		45.5		-18.5		Frontal Pole		       Left Cerebral Cortex
 6		353.0		       -18.5		-36.5		3.5		Out of bounds		       Left Thalamus
-5		220.0		       35.5		-82.5		-36.5		Out of bounds		       Out of bounds
-4		161.0		       -22.5		-82.5		-40.5		Out of bounds		       Out of bounds
-3		122.0		       1.5		-96.5		-14.5		Out of bounds		       Out of bounds
+
 
 ```
